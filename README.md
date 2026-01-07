@@ -31,6 +31,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system designed f
 - Google Colab environment (recommended for seamless execution)
 
 ## 🌟 Additional Resources
+[Course Certificate](https://certificate.codeforall.com/verify/24df640315965?s)<br>
 [LangChain Documentation](https://docs.langchain.com/oss/python/langchain/overview)<br>
 [ChromaDB Documentation](https://docs.trychroma.com/docs/overview/introduction)<br>
 [OpenAI API Documentation](https://platform.openai.com/docs/overview)<br>
